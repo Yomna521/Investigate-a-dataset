@@ -75,6 +75,7 @@ Not quite true. The corralation doesn't indicate a strong relationship between v
     <tr><th>Average Revenue</th> 	<td>184,138,833</td></tr>
     <tr><th>Average vote</th> 	<td>6.29</td></tr>
 </table>
+
 ##### Question 5: How did the number of film production changed over time?
 
 There's a significant increase in the number of movies produced each year.
