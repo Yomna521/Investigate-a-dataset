@@ -83,5 +83,5 @@ There's a significant increase in the number of movies produced each year.
 
 In the cleaning stage, many movies were discarded due to insuffecient data given. The original dataset contained 10,866 movie entry, and the cleaned data set contains 3,805; this means almost 65% of the enteries were discarded. Of course this will have an effect on all the answers found, for instance the number of movies produced each year may not accuratly represent the actual case, in case more movies from certain years were discarded than the other years.
 
-In the revenue data, there was no normalization, exchange rate, or currency conversion considered during the nalysis. The analysis was limited to the given numerical values.
+In the revenue data, there was no normalization, exchange rate, or currency conversion considered during the analysis. The analysis was limited to the given numerical values.
 
